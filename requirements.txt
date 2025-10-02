@@ -1,3 +1,7 @@
-langfuse
+openai-agents
 openai
+pandas
+duckdb
+pydantic
+pyarrow
 python-dotenv
